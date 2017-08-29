@@ -8,6 +8,6 @@ What it does:
 What is does not do:
 -Reads the current state of the digimon.
 
-If you would like to know more about this project you can review the video here. 
+If you would like to know more about this project you can view the video here. 
 
 https://www.youtube.com/watch?v=xxxQOq16XbU
